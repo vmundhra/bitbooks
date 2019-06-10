@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elliottminns/bitbooks.git"
+    "url": "git+https://github.com/vmundhra/bitbooks.git"
   },
-  "author": "Elliott Minns <elliott.minns@me.com>",
+  "author": "Vishal Mundhra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elliottminns/bitbooks/issues"
+    "url": "https://github.com/vmundhra/bitbooks/issues"
   },
-  "homepage": "https://github.com/elliottminns/bitbooks#readme",
+  "homepage": "https://github.com/vmundhra/bitbooks#readme",
   "dependencies": {
     "bitcoinjs-lib": "^5.0.5",
     "jayson": "^3.0.2",

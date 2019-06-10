@@ -2,7 +2,7 @@
   "name": "bitbooks-web",
   "version": "1.0.0",
   "description": "The frontend for bitbooks",
-  "author": "Elliott Minns <elliott.minns@me.com>",
+  "author": "Vishal Mundhra",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
