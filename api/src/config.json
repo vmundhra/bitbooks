@@ -2,10 +2,17 @@
   "env": {
     "MONGO_DATABASE_NAME": "bitbooks",
     "MONGO_URL": "mongodb://127.0.0.1:27017",
-    "DOMAIN": "bitbooks.com", 
+    "DOMAIN": "bitbooks.com",
     "ADMIN_EMAIL": "admin@example.com",
     "SMTP_HOST": "smtp.gmail.com",
     "SMTP_USER": "myemail@gmail.com",
-    "SMTP_PASS": "myemailpasswordforgmail"
+    "SMTP_PASS": "myemailpasswordforgmail",
+    "XPUB": "tpubDDtH8dRw24CoXcXDLqAB8wnvermpthBa575Re8PMW97698tVaaS8AwJwdMTco8mp39Qg1mtptLVGz76tvrxnyiSpMjxSKC8KQBs1Gc56iLx",
+    "TESTNET": true,
+    "COIN_RPC_USER": "user",
+    "COIN_RPC_PASS": "helloworld",
+    "COIN_RPC_PORT": "18332",
+    "COIN_RPC_URL": "127.0.0.1",
+    "CONFIRMATIONS_REQUIRED": 3
   }
 }

@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/elliottminns/bitbooks#readme",
   "dependencies": {
+    "bitcoinjs-lib": "^5.0.5",
+    "jayson": "^3.0.2",
     "koa": "^2.5.2",
     "koa-bodyparser": "^4.2.1",
     "koa-morgan": "^1.0.1",
@@ -27,6 +29,7 @@
     "mongoose": "^5.2.3",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
-    "request-promise-cache": "^2.0.0"
+    "request-promise-cache": "^2.0.0",
+    "socket.io": "^2.2.0"
   }
 }
